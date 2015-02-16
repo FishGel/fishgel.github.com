@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "start"
+date:   2015-02-16 20:56:45
+description: 趁着过年的闲暇，找点事做，把一直以来想要搭建自己blog的想法落地.
+categories:
+- blog
+permalink: sample-post
+---
+
+趁着过年的闲暇，找点事做，把一直以来想要搭建自己blog的想法落地.
+
+___
+

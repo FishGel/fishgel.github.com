@@ -11,7 +11,7 @@ permalink: /about/
 
 ### 联系我
 
- [Weibo][weibo] or just say `Hello` at 
+ [Weibo][weibo] 或者直接电邮
 [whoisdyd@gmail.com](whoisdyd@gmail.com).
 
 
